@@ -35,6 +35,7 @@ def screen_clear():
       # for windows platfrom
       _ = os.system('cls')
   
+
 # Defining a dictionary to store the names of person and their corresponding bids
 bid={}
 

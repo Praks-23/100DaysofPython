@@ -1,3 +1,12 @@
+'''
+Etch-A-Sketch
+- Press w to move forward
+- Press s to move backwards
+- Press a to turn left
+- Press d to turn right
+'''
+
+
 from turtle import Turtle, Screen
 
 tim = Turtle()
